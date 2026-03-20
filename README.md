@@ -23,7 +23,6 @@
 | [OpenCLI](https://github.com/jackwener/opencli) | Turn any website or Electron app into a CLI | ![Stars](https://img.shields.io/github/stars/jackwener/opencli.svg?style=social&label=) |
 | [ChatWise](https://github.com/egoist/chatwise-releases) | The fastest AI chatbot for any LLM | ![Stars](https://img.shields.io/github/stars/egoist/chatwise-releases.svg?style=social&label=) |
 
-**[⬆ Back to Index](#index)**
 
 ---
 
@@ -35,7 +34,6 @@
 | [rdt-cli](https://github.com/jackwener/rdt-cli) | Browse Reddit feeds, search posts, interact | ![Stars](https://img.shields.io/github/stars/jackwener/rdt-cli.svg?style=social&label=) |
 | [Bilibili CLI](https://github.com/jackwener/bilibili-cli) | Browse and interact with Bilibili from the terminal | ![Stars](https://img.shields.io/github/stars/jackwener/bilibili-cli.svg?style=social&label=) |
 
-**[⬆ Back to Index](#index)**
 
 ---
 
@@ -48,7 +46,6 @@
 | [Vercel CLI](https://github.com/vercel/vercel) | Deploy and manage Vercel projects from the command line | ![Stars](https://img.shields.io/github/stars/vercel/vercel.svg?style=social&label=) |
 | [Netlify CLI](https://github.com/netlify/cli) | Build, deploy, and manage Netlify sites from the terminal | ![Stars](https://img.shields.io/github/stars/netlify/cli.svg?style=social&label=) |
 
-**[⬆ Back to Index](#index)**
 
 ---
 
@@ -60,7 +57,6 @@
 | [Telegram CLI](https://github.com/jackwener/tg-cli) | Telegram messaging from the command line | ![Stars](https://img.shields.io/github/stars/jackwener/tg-cli.svg?style=social&label=) |
 | [Slack CLI](https://github.com/slackapi/slack-cli) | Build, run, and deploy Slack apps from the terminal | ![Stars](https://img.shields.io/github/stars/slackapi/slack-cli.svg?style=social&label=) |
 
-**[⬆ Back to Index](#index)**
 
 ---
 
@@ -71,7 +67,6 @@
 | [HTTPie](https://github.com/httpie/cli) | Human-friendly HTTP client for the API era | ![Stars](https://img.shields.io/github/stars/httpie/cli.svg?style=social&label=) |
 | [pgcli](https://github.com/dbcli/pgcli) | Postgres CLI with auto-completion and syntax highlighting | ![Stars](https://img.shields.io/github/stars/dbcli/pgcli.svg?style=social&label=) |
 
-**[⬆ Back to Index](#index)**
 
 ---
 
@@ -83,7 +78,6 @@
 | [Notion CLI](https://github.com/kris-hansen/notion-cli) | Interact with Notion databases and pages from your terminal | ![Stars](https://img.shields.io/github/stars/kris-hansen/notion-cli.svg?style=social&label=) |
 | [Linear CLI](https://github.com/evangodon/linear-cli) | Manage Linear issues, projects, and cycles from the command line | ![Stars](https://img.shields.io/github/stars/evangodon/linear-cli.svg?style=social&label=) |
 
-**[⬆ Back to Index](#index)**
 
 ---
 
@@ -93,7 +87,6 @@
 |:----|:-----------|:------|
 | [GitHub CLI](https://github.com/cli/cli) | GitHub's official CLI | ![Stars](https://img.shields.io/github/stars/cli/cli.svg?style=social&label=) |
 
-**[⬆ Back to Index](#index)**
 
 ---
 
@@ -103,7 +96,6 @@
 |:----|:-----------|:------|
 | [Visa CLI](https://visacli.sh) | Execute card payments from the terminal | — |
 
-**[⬆ Back to Index](#index)**
 
 ---
 
