@@ -1,6 +1,6 @@
 # Public CLIs [![Stars](https://img.shields.io/github/stars/public-clis/public-clis.svg?style=social)](https://github.com/public-clis/public-clis) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A collective list of CLIs (Command Line Interfaces) for services, platforms, and tools. Inspired by [public-apis](https://github.com/public-apis/public-apis).
+> A collective list of CLIs (Command Line Interfaces) for services, platforms, and tools.
 
 ## Contributing
 
