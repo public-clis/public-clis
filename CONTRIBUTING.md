@@ -11,7 +11,7 @@ Thank you for your interest in contributing! This project is a curated list of C
 3. Follow the format below:
 
 ```markdown
-| [CLI Name](https://github.com/owner/repo) | Short description | Platform | `install command` | ![Stars](https://img.shields.io/github/stars/owner/repo.svg?style=social&label=) |
+| [CLI Name](https://github.com/owner/repo) | Short description | ![Stars](https://img.shields.io/github/stars/owner/repo.svg?style=social&label=) |
 ```
 
 4. Submit a Pull Request
@@ -23,7 +23,6 @@ Thank you for your interest in contributing! This project is a curated list of C
 - **Keep descriptions concise** — under 100 characters
 - **Alphabetical order** within each category
 - **No duplicates** — check if the CLI is already listed
-- **Working install command** — verify the install command works
 
 ### Format
 
@@ -31,8 +30,6 @@ Thank you for your interest in contributing! This project is a curated list of C
 |:------|:-----------|
 | CLI | Name with link to repo or homepage |
 | Description | What the CLI does in a short sentence |
-| Platform | Supported operating systems |
-| Install | Install command or link |
 | Stars | GitHub stars badge (if applicable) |
 
 ### Categories
