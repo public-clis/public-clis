@@ -2,9 +2,6 @@
 
 > A collective list of CLIs (Command Line Interfaces) for services, platforms, and tools.
 
-## Contributing
-
-> Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md) before submitting a Pull Request.
 
 ## Index
 
@@ -25,10 +22,6 @@
 |:----|:-----------|:------|
 | [OpenCLI](https://github.com/jackwener/opencli) | Turn any website or Electron app into a CLI | ![Stars](https://img.shields.io/github/stars/jackwener/opencli.svg?style=social&label=) |
 | [ChatWise](https://github.com/egoist/chatwise-releases) | The fastest AI chatbot for any LLM | ![Stars](https://img.shields.io/github/stars/egoist/chatwise-releases.svg?style=social&label=) |
-| [Ollama](https://github.com/ollama/ollama) | Run large language models locally from the command line | ![Stars](https://img.shields.io/github/stars/ollama/ollama.svg?style=social&label=) |
-| [LLM](https://github.com/simonw/llm) | Access LLMs from the CLI | ![Stars](https://img.shields.io/github/stars/simonw/llm.svg?style=social&label=) |
-| [Aider](https://github.com/paul-gauthier/aider) | AI pair programming in your terminal | ![Stars](https://img.shields.io/github/stars/paul-gauthier/aider.svg?style=social&label=) |
-| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Let LLMs run code on your computer | ![Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter.svg?style=social&label=) |
 
 **[⬆ Back to Index](#index)**
 
@@ -40,7 +33,7 @@
 |:----|:-----------|:------|
 | [twitter-cli](https://github.com/jackwener/twitter-cli) | Read timelines, post tweets, manage bookmarks | ![Stars](https://img.shields.io/github/stars/jackwener/twitter-cli.svg?style=social&label=) |
 | [rdt-cli](https://github.com/jackwener/rdt-cli) | Browse Reddit feeds, search posts, interact | ![Stars](https://img.shields.io/github/stars/jackwener/rdt-cli.svg?style=social&label=) |
-| [Bilibili CLI](https://github.com/jackwener/bilibili-cli) | Browse and interact with Bilibili from the terminal | — |
+| [Bilibili CLI](https://github.com/jackwener/bilibili-cli) | Browse and interact with Bilibili from the terminal | ![Stars](https://img.shields.io/github/stars/jackwener/bilibili-cli.svg?style=social&label=) |
 
 **[⬆ Back to Index](#index)**
 
@@ -52,11 +45,8 @@
 |:----|:-----------|:------|
 | [AWS CLI](https://github.com/aws/aws-cli) | Unified CLI for Amazon Web Services | ![Stars](https://img.shields.io/github/stars/aws/aws-cli.svg?style=social&label=) |
 | [GWS CLI](https://github.com/googleworkspace/cli) | Google Workspace CLI | ![Stars](https://img.shields.io/github/stars/googleworkspace/cli.svg?style=social&label=) |
-| [Azure CLI](https://github.com/Azure/azure-cli) | Cross-platform CLI for managing Azure resources | ![Stars](https://img.shields.io/github/stars/Azure/azure-cli.svg?style=social&label=) |
-| [Terraform CLI](https://github.com/hashicorp/terraform) | Infrastructure as Code | ![Stars](https://img.shields.io/github/stars/hashicorp/terraform.svg?style=social&label=) |
 | [Vercel CLI](https://github.com/vercel/vercel) | Deploy and manage Vercel projects from the command line | ![Stars](https://img.shields.io/github/stars/vercel/vercel.svg?style=social&label=) |
 | [Netlify CLI](https://github.com/netlify/cli) | Build, deploy, and manage Netlify sites from the terminal | ![Stars](https://img.shields.io/github/stars/netlify/cli.svg?style=social&label=) |
-| [Fly CLI](https://github.com/superfly/flyctl) | Deploy and manage apps on Fly.io | ![Stars](https://img.shields.io/github/stars/superfly/flyctl.svg?style=social&label=) |
 
 **[⬆ Back to Index](#index)**
 
@@ -89,9 +79,9 @@
 
 | CLI | Description | Stars |
 |:----|:-----------|:------|
-| [Obsidian CLI](https://obsidian.md) | Official CLI for Obsidian | — |
-| [Notion CLI](https://github.com/notion-cli/notion-cli) | Interact with Notion databases and pages from your terminal | — |
-| [Linear CLI](https://github.com/linear/linear) | Manage Linear issues, projects, and cycles from the command line | — |
+| [Obsidian CLI](https://github.com/Yakitrak/notesmd-cli) | Official CLI for Obsidian | ![Stars](https://img.shields.io/github/stars/Yakitrak/notesmd-cli.svg?style=social&label=) |
+| [Notion CLI](https://github.com/kris-hansen/notion-cli) | Interact with Notion databases and pages from your terminal | ![Stars](https://img.shields.io/github/stars/kris-hansen/notion-cli.svg?style=social&label=) |
+| [Linear CLI](https://github.com/evangodon/linear-cli) | Manage Linear issues, projects, and cycles from the command line | ![Stars](https://img.shields.io/github/stars/evangodon/linear-cli.svg?style=social&label=) |
 
 **[⬆ Back to Index](#index)**
 
@@ -102,7 +92,6 @@
 | CLI | Description | Stars |
 |:----|:-----------|:------|
 | [GitHub CLI](https://github.com/cli/cli) | GitHub's official CLI | ![Stars](https://img.shields.io/github/stars/cli/cli.svg?style=social&label=) |
-| [GitLab CLI](https://gitlab.com/gitlab-org/cli) | GitLab's official CLI | — |
 
 **[⬆ Back to Index](#index)**
 
