@@ -75,6 +75,7 @@
 | CLI | Description | Stars |
 |:----|:-----------|:------|
 | [GitHub CLI](https://github.com/cli/cli) | GitHub's official CLI | ![Stars](https://img.shields.io/github/stars/cli/cli.svg?style=social&label=) |
+| [Kilobat CLI](https://github.com/seifip/kilobat-cli) | macOS network diagnostics with JSON output: per-app traffic, Wi-Fi, DNS and connection checks. | ![Stars](https://img.shields.io/github/stars/seifip/kilobat-cli.svg?style=social&label=) |
 
 
 ---
